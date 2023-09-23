@@ -1,6 +1,6 @@
 # Project 2 - Wordle
 
-Submitted by: Quang Nguyen 
+Submitted by: Quang Nguyen
 
 Wordle is a word puzzle game that challenges players to guess a secret word within a limited number of attempts
 
@@ -17,9 +17,10 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-https://giphy.com/gifs/YUq5jRkjuUrhMdiaDZ
+<img src="https://giphy.com/gifs/YUq5jRkjuUrhMdiaDZ" />
 
 Made by [Giphy](https://giphy.com/)
+
 ## License
 
     Copyright [2023] [Quang Nguyen]
