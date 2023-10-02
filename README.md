@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnB5Njl1ZjMzcXk0dWI5Mmpwa3h4MmJuaGxqa3hrMWgyZjlmd2d1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YUq5jRkjuUrhMdiaDZ/giphy.gif" />
+<img src="https://imgur.com/a/wYOTZd0" />
 
 Made by [Giphy](https://giphy.com/)
 
